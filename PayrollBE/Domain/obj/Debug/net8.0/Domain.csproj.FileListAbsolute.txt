@@ -1,0 +1,11 @@
+D:\ShineZ\repos\Rezerv\PayrollBE\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\ShineZ\repos\Rezerv\PayrollBE\Domain\bin\Debug\net8.0\Domain.dll
+D:\ShineZ\repos\Rezerv\PayrollBE\Domain\bin\Debug\net8.0\Domain.pdb
+D:\ShineZ\repos\Rezerv\PayrollBE\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ShineZ\repos\Rezerv\PayrollBE\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\ShineZ\repos\Rezerv\PayrollBE\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\ShineZ\repos\Rezerv\PayrollBE\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\ShineZ\repos\Rezerv\PayrollBE\Domain\obj\Debug\net8.0\Domain.dll
+D:\ShineZ\repos\Rezerv\PayrollBE\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\ShineZ\repos\Rezerv\PayrollBE\Domain\obj\Debug\net8.0\Domain.pdb
+D:\ShineZ\repos\Rezerv\PayrollBE\Domain\obj\Debug\net8.0\ref\Domain.dll
